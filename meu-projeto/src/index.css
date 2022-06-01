@@ -1,0 +1,14 @@
+body{
+  padding: 50px;
+  padding-bottom: 500px;
+  background-color:azure;
+}
+
+h1{
+  color: crimson;
+}
+
+p{
+  background-color: bisque;
+  padding: 10px;
+}
